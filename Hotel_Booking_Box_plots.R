@@ -1,6 +1,6 @@
 rm(list=ls())
 
-setwd("C:/Users/punya/Downloads")
+setwd("your_directory")
 
 #install.packages("ggplot2")
 #install.packages("corrplot")  # Install the corrplot package if you haven't already
