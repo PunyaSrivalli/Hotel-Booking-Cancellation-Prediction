@@ -1,6 +1,6 @@
 rm(list=ls())
 
-setwd("your_directory")
+setwd("directory_path")
 
 #install.packages("ggplot2")
 #install.packages("corrplot")  # Install the corrplot package if you haven't already
