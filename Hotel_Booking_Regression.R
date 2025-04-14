@@ -1,4 +1,4 @@
-setwd("C:/Users/punya/Downloads")
+setwd("directory_path")
 HB <- read.csv("booking.csv", header = TRUE, stringsAsFactors = FALSE)
 attach(HB)
 View(HB)
